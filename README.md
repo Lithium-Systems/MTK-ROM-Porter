@@ -1,9 +1,9 @@
-# 🧪 MediaTek (MTK) ROM Porter
+# MediaTek (MTK) ROM Porter
 
 [<img src="https://github.com/user-attachments/assets/9a97cd0d-39f7-45d0-a56b-7e44221b8e87">](https://discord.gg/3zbfaTNN7V)
 
 
-## Devices
+## 📱 Devices
 
 - Supports MT6572/82/92 3.4.67 kernel (one-step port)
 
@@ -11,11 +11,11 @@
 
 - May support more devices, but these have not been tested.
 
-## Lithium
+## 🧪 Lithium
 
 This open-source repository was originally made for the development of **[Lithium 5](https://lithium.timmkoo.de)**. Lithium 5 is the latest custom operating system from the Lithium project, providing a seamless user experience with high performance and jam-packed with features. Lithium 5 is based on the **[Android Open-Source Project (AOSP) version 5.0 Lollipop](https://developer.android.com/about/versions/lollipop)**, adapted specifically for Timmkoo and Innioasis devices.
 
-## Support
+## 🤝 Support
 
 If you have any issues using or installing MTK ROM Porter, or would like to learn more, feel free to join our **[Discord server](https://discord.gg/3zbfaTNN7V)** and get involved! We are always looking for people interested in contributing to the project too, if you have any experience in development or would like to learn, join us!
 
