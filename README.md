@@ -14,14 +14,14 @@ MTK ROM Porter is a portable application, meaning that it does not require insta
 You must have Python installed on your system in order to run MTK ROM Porter. **Python 3.10** or newer is recommended.
 
 - If you are using Windows, you can install Python from the **[Microsoft Store](https://apps.microsoft.com/detail/9nrwmjp3717k?launch=true&mode=full&hl=en-US&gl=GB)** (Windows 10 or newer) or the **[official Python website](https://www.python.org/downloads/)**.
-- If you are using a **Debian-based Linux distribution** (APT), you can install Python via Terminal with the following commands:
+- If you are using a **Debian-based Linux distribution** (APT), you can install Python from the **[official Python website](https://www.python.org/downloads/)** or via Terminal with the following commands:
   - Update local list of available packages: `sudo apt update`
   - Install Python: `sudo apt install python3 -y`
-  - Verify Python installation `python3 --version`.
-- If you are using an **Arch-based Linux distribution** (Pacman), you can install Python via Terminal with the following commands:
+  - Verify Python installation `python3 --version`
+- If you are using an **Arch-based Linux distribution** (Pacman), you can install Python from the **[official Python website](https://www.python.org/downloads/)** or via Terminal with the following commands:
   - Update package database: `sudo pacman -Sy`
   - Install Python: `sudo pacman -S python`
-  - Verify Python installation: `python --version`.
+  - Verify Python installation: `python --version`
 
 ## 📱 Devices
 
