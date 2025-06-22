@@ -1,6 +1,6 @@
 # MediaTek (MTK) ROM Porter
 
-A simple Android ROM porter for MediaTek devices. 📱
+A simple Android ROM porting tool for MediaTek devices. 📱
 
 [<img src="https://github.com/user-attachments/assets/9a97cd0d-39f7-45d0-a56b-7e44221b8e87">](https://discord.gg/3zbfaTNN7V)
 
